@@ -1,16 +1,40 @@
-# React + Vite
+Notes-web 📝
+A sleek, responsive notes application built to help users organize their thoughts with a focus on a clean user interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Create Notes: Add new notes with specific titles and detailed descriptions.
 
-Currently, two official plugins are available:
+Delete Functionality: Easily remove notes once they are no longer needed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dark Mode Aesthetic: A modern dark theme featuring a black background and high-contrast white text.
 
-## React Compiler
+Responsive Layout: Notes are organized and aligned to ensure readability across different screen sizes.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Styled Components: Uses custom background images for note cards to provide a unique look.
 
-## Expanding the ESLint configuration
+🛠️ Tech Stack
+Frontend: React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Styling: Tailwind CSS, CSS3
+
+Language: JavaScript (ES6+), HTML5
+
+Build Tool: Vite
+
+
+📂 Installation & Setup
+Clone the repository:
+
+Bash
+git clone https://github.com/rajdeep-pixel/notes-web.git
+Install dependencies:
+
+Bash
+npm install
+Run the development server:
+
+Bash
+npm run dev 
+
+Project Status: Currently under active development with more features coming soon!
+Happy Coding: Built with ❤️ by rajdeep-pixel.
